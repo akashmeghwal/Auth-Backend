@@ -9,11 +9,14 @@ features:
 - Modular microservice architecture
 
 # Project Structure
-<br>
 project-root/
+<br>
 ├── auth-service/  # Handles form & social login
+<br>
 ├── user-profile-service/  # Handles user profile with JWT auth
+<br>
 ├── .gitignore  # Excludes .env
+<br>
 └── README.md  
 
 ## ⚙️ Dependencies
